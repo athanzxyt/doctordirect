@@ -15,16 +15,13 @@ Then using webscraping techniques, we sought out medical professionals based on 
 
 Lastly, all of this was seamlessly merged onto a dynamic web platform. Connecting our python files to the typical web dev files, we used Flask to connect all of our models and files to integrate it into a web app, which is hosted on Heroku.
 
-## Challenges we ran into
-A major challenge we ran into with the machine learning model was overfitting. This was largely due to improper cleaning of our dataset. With a little bit of data manipulation and a switch of ML models, we were able to significantly boost the accuracy of our model.
+## What's in this Repo?
 
-A second major challenge we ran into was running into CAPTCHAs when web scraping. To bypass this, we randomly generated user-agents to access the designated website, this would constantly refresh our way of connection, protecting us from CAPTCHAs.
-
-## Accomplishments that we're proud of
-We're proud of all aspects of this project. Firstly, overall product design, research, and idea were ideas of our own that we were very passionate about. Secondly, we're happy to have been able to integrate so many fields of computer science into one project, implementing machine learning, data web scraping, web development, and text processing. Thirdly, we're happy to have completed our project!
-
-## What we learned
-That webscraping is hard. To be honest, we learned that everything is hard. Also pushing yourself to pull an all-nighter is hard. But we did it!
+1. static - Folder of CSS formatting and background images
+2. templates - Folder of HTML web development files
+3. doctorReturn.py - Returns a list of doctors and medical specialists for a specific disease
+4. finalized_modevl.sav - The trained SVC model
+5. main.py - The FLASK file which connects all components of this project
 
 ## What's next for Doctor Direct
 Currently, we recognize 42 medical conditions and 132 symptoms. We plan to expand the symptoms and medical conditions to cover a greater range including physical injuries and mental illnesses. Additionally, we can continue to expand onto our website, linking APIs from hospitals directly to our services. This would allow for a more ubiquitous and thorough service. 
