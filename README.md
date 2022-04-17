@@ -26,7 +26,7 @@ Then using webscraping techniques, we sought out medical professionals based on 
 
 Lastly, all of this was seamlessly merged onto a dynamic web platform. Connecting our python files to the typical web dev files, we used Flask to connect all of our models and files to integrate it into a web app, which is hosted on Heroku.
 
-![image](https://user-images.githubusercontent.com/93752379/163712656-0ca554fe-f48d-436f-b8a5-85197f272618.png)
+![image](https://user-images.githubusercontent.com/93752379/163712740-3986f703-5ee1-4ea6-9e1d-a6fc9b2157f8.png)
 
 ## What's next for Doctor Direct 🏆
 Currently, we recognize 42 medical conditions and 132 symptoms. We plan to expand the symptoms and medical conditions to cover a greater range including physical injuries and mental illnesses. Additionally, we can continue to expand onto our website, linking APIs from hospitals directly to our services. This would allow for a more ubiquitous and thorough service. 
