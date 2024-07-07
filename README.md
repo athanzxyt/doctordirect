@@ -1,8 +1,13 @@
 # DoctorDirect 
 
-#### Doctor Direct aims to directly connect potential patients with the CORRECT medical professional for them, regardless of whatever particular need they have, saving valuable time for all parties.
+![Flask Badge](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff&style=flat)
+![pandas Badge](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=fff&style=flat)
+![Heroku Badge](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fff&style=flat)
+![scikit-learn Badge](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=fff&style=flat)
 
-_THIS PROJECT WAS A PART OF HACKTJ2022_
+Doctor Direct aims to directly connect potential patients with the CORRECT medical professional for them, regardless of whatever particular need they have, saving valuable time for all parties. This project is no longer maintained and no longer deployed.
+
+*This project was a part of HackTJ 2022 (1x Sponsor Prize)*
 
 ## Inspiration 🔮 
 We drew inspiration for this problem after hearing constant complaints from our parents about finding a doctor. A few common complaints always arose: "It always takes so long to get a doctor" and "It's never the right doctor." With a little bit of research into the healthcare industry, we realized there was a _real_ problem with the medical system. Medical professionals are often understaffed, and time becomes increasingly valuable for both patients and medical professionals. Additionally, we found that a common waste of time in the healthcare industry, we **improper** appointments, a.k.a. people going to the wrong doctor. Thus, we created DoctorDirect to **solve all of these problems**.
