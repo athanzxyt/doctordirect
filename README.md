@@ -33,3 +33,7 @@ Lastly, all of this was seamlessly merged onto a dynamic web platform. Connectin
 
 ## What's next for Doctor Direct 🏆
 Currently, we recognize 42 medical conditions and 132 symptoms. We plan to expand the symptoms and medical conditions to cover a greater range including physical injuries and mental illnesses. Additionally, we can continue to expand onto our website, linking APIs from hospitals directly to our services. This would allow for a more ubiquitous and thorough service. 
+
+## License
+
+[Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
